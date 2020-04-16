@@ -11,8 +11,9 @@
    automatically generate the data structure. Before running the goal
    and the application, remember add your database url and credentials
    to ***liquibase.properties*** and ***application.properties*** both
-   located in *resources/config/*
+   located in *resources/config/* (DO NOT FORGET THIS)
 
 Once you updated the properties files and **liquibase:update** already run the application is ready to go!
 
 Run it and import data from football-data.org!
+
